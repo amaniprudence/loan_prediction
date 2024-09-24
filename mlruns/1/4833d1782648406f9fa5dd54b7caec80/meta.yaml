@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/4833d1782648406f9fa5dd54b7caec80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4833d1782648406f9fa5dd54b7caec80
+run_name: angry-donkey-486
+run_uuid: 4833d1782648406f9fa5dd54b7caec80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727149588785
+status: 1
+tags: []
+user_id: prude

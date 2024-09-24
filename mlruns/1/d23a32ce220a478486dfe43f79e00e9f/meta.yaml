@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/d23a32ce220a478486dfe43f79e00e9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d23a32ce220a478486dfe43f79e00e9f
+run_name: secretive-fish-223
+run_uuid: d23a32ce220a478486dfe43f79e00e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727150864315
+status: 1
+tags: []
+user_id: prude

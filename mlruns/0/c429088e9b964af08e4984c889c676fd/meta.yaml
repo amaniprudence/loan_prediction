@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/0/c429088e9b964af08e4984c889c676fd/artifacts
+end_time: 1727153613182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c429088e9b964af08e4984c889c676fd
+run_name: LogisticRegression
+run_uuid: c429088e9b964af08e4984c889c676fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727153611070
+status: 3
+tags: []
+user_id: prude

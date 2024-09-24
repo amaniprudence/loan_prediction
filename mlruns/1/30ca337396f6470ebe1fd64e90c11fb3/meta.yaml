@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/30ca337396f6470ebe1fd64e90c11fb3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30ca337396f6470ebe1fd64e90c11fb3
+run_name: bold-stork-287
+run_uuid: 30ca337396f6470ebe1fd64e90c11fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727149845523
+status: 1
+tags: []
+user_id: prude

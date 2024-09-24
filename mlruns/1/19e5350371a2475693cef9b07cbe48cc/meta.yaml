@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/19e5350371a2475693cef9b07cbe48cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19e5350371a2475693cef9b07cbe48cc
+run_name: carefree-bass-303
+run_uuid: 19e5350371a2475693cef9b07cbe48cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727151863900
+status: 1
+tags: []
+user_id: prude

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/97ef7b4afe68498fa22d7eff5b139fbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97ef7b4afe68498fa22d7eff5b139fbb
+run_name: enchanting-sheep-21
+run_uuid: 97ef7b4afe68498fa22d7eff5b139fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727149424657
+status: 1
+tags: []
+user_id: prude

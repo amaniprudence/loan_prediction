@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prude/mlflow/mlruns/1/69157a3238324bc29fe88ac656ff1b31/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69157a3238324bc29fe88ac656ff1b31
+run_name: calm-hen-757
+run_uuid: 69157a3238324bc29fe88ac656ff1b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727151787237
+status: 1
+tags: []
+user_id: prude
